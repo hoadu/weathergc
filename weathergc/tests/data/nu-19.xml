@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See http://www.ec.gc.ca/meteo-weather/default.asp?lang=En&n=11703207-1 to learn more about our RSS service.
+-->
+
+ <title>Ennadai - Weather - Environment Canada</title>
+ <link rel="related" href="http://www.weather.gc.ca/city/pages/nu-19_metric_e.html" type="text/html"/>
+ <link rel="self" href="http://www.weather.gc.ca/rss/city/nu-19_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="http://www.meteo.gc.ca/rss/city/nu-19_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>http://www.weather.gc.ca</uri>
+ </author>
+ <updated>2016-09-10T20:37:26Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20160910203726</id>
+ <logo>http://www.weather.gc.ca/template/gcweb/assets/wmms-alt.png</logo>
+ <icon>http://www.weather.gc.ca/template/gcweb/assets/favicon.ico</icon>
+ <rights>Copyright 2016, Environment Canada</rights>
+ <entry>
+ <title>Current Conditions: 6.1&#xB0;C</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/nu-19_metric_e.html"/>
+ <updated>2016-09-10T20:00:00Z</updated>
+ <published>2016-09-10T20:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Ennadai Lake 2:00 PM MDT Saturday 10 September 2016 <br/>
+<b>Temperature:</b> 6.1&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.2 kPa falling<br/>
+<b>Humidity:</b> 57 %<br/>
+<b>Dewpoint:</b> -1.8&deg;C <br/>
+<b>Wind:</b> NNE 9 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-19_cc:20160910200000</id>
+ </entry>
+ </feed>
+

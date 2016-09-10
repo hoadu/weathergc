@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See http://www.ec.gc.ca/meteo-weather/default.asp?lang=En&n=11703207-1 to learn more about our RSS service.
+-->
+
+ <title>Sioux Narrows - Weather - Environment Canada</title>
+ <link rel="related" href="http://www.weather.gc.ca/city/pages/on-166_metric_e.html" type="text/html"/>
+ <link rel="self" href="http://www.weather.gc.ca/rss/city/on-166_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="http://www.meteo.gc.ca/rss/city/on-166_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>http://www.weather.gc.ca</uri>
+ </author>
+ <updated>2016-09-10T20:07:31Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20160910200731</id>
+ <logo>http://www.weather.gc.ca/template/gcweb/assets/wmms-alt.png</logo>
+ <icon>http://www.weather.gc.ca/template/gcweb/assets/favicon.ico</icon>
+ <rights>Copyright 2016, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Sioux Narrows</title>
+ <link type="text/html" href="http://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2016-09-05T10:30:00Z</updated>
+ <published>2016-09-05T10:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-166_w1:20160905103000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mostly Cloudy, 15.7&#xB0;C</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/on-166_metric_e.html"/>
+ <updated>2016-09-10T20:00:00Z</updated>
+ <published>2016-09-10T20:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Kenora Airport 3:00 PM CDT Saturday 10 September 2016 <br/>
+<b>Condition:</b> Mostly Cloudy <br/>
+<b>Temperature:</b> 15.7&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.6 kPa falling<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 65 %<br/>
+<b>Dewpoint:</b> 9.2&deg;C <br/>
+<b>Wind:</b> W 8 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-166_cc:20160910200000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of showers. Low 10. POP 40%</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/on-166_metric_e.html"/>
+ <updated>2016-09-10T20:00:00Z</updated>
+ <published>2016-09-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy with 40 percent chance of showers early this evening. Clearing after midnight. Wind northwest 20 km/h becoming light early this evening. Low 10. Forecast issued 4:00 PM CDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-166_fc1:20160910200000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Mainly sunny. High 22.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/on-166_metric_e.html"/>
+ <updated>2016-09-10T20:00:00Z</updated>
+ <published>2016-09-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Becoming a mix of sun and cloud in the morning. Wind becoming southwest 20 km/h gusting to 40 near noon. High 22. UV index 5 or moderate. Forecast issued 4:00 PM CDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-166_fc2:20160910200000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of showers. Low 13. POP 30%</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/on-166_metric_e.html"/>
+ <updated>2016-09-10T20:00:00Z</updated>
+ <published>2016-09-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Becoming cloudy in the evening with 30 percent chance of showers overnight. Wind southwest 20 km/h becoming light in the evening. Low 13. Forecast issued 4:00 PM CDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-166_fc3:20160910200000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of showers. High 15. POP 40%</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/on-166_metric_e.html"/>
+ <updated>2016-09-10T20:00:00Z</updated>
+ <published>2016-09-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. High 15. Forecast issued 4:00 PM CDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-166_fc4:20160910200000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of showers. Low 6. POP 40%</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/on-166_metric_e.html"/>
+ <updated>2016-09-10T20:00:00Z</updated>
+ <published>2016-09-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 40 percent chance of showers. Low 6. Forecast issued 4:00 PM CDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-166_fc5:20160910200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of showers. High 12. POP 30%</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/on-166_metric_e.html"/>
+ <updated>2016-09-10T20:00:00Z</updated>
+ <published>2016-09-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 12. Forecast issued 4:00 PM CDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-166_fc6:20160910200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low 6.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/on-166_metric_e.html"/>
+ <updated>2016-09-10T20:00:00Z</updated>
+ <published>2016-09-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low 6. Forecast issued 4:00 PM CDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-166_fc7:20160910200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High 17.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/on-166_metric_e.html"/>
+ <updated>2016-09-10T20:00:00Z</updated>
+ <published>2016-09-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 17. Forecast issued 4:00 PM CDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-166_fc8:20160910200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low 9.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/on-166_metric_e.html"/>
+ <updated>2016-09-10T20:00:00Z</updated>
+ <published>2016-09-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low 9. Forecast issued 4:00 PM CDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-166_fc9:20160910200000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High 20.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/on-166_metric_e.html"/>
+ <updated>2016-09-10T20:00:00Z</updated>
+ <published>2016-09-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 20. Forecast issued 4:00 PM CDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-166_fc10:20160910200000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of showers. Low 12. POP 30%</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/on-166_metric_e.html"/>
+ <updated>2016-09-10T20:00:00Z</updated>
+ <published>2016-09-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of showers. Low 12. Forecast issued 4:00 PM CDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-166_fc11:20160910200000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of showers. High 18. POP 30%</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/on-166_metric_e.html"/>
+ <updated>2016-09-10T20:00:00Z</updated>
+ <published>2016-09-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 18. Forecast issued 4:00 PM CDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-166_fc12:20160910200000</id>
+ </entry>
+ </feed>
+

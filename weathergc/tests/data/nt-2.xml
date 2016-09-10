@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See http://www.ec.gc.ca/meteo-weather/default.asp?lang=En&n=11703207-1 to learn more about our RSS service.
+-->
+
+ <title>Enterprise - Weather - Environment Canada</title>
+ <link rel="related" href="http://www.weather.gc.ca/city/pages/nt-2_metric_e.html" type="text/html"/>
+ <link rel="self" href="http://www.weather.gc.ca/rss/city/nt-2_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="http://www.meteo.gc.ca/rss/city/nt-2_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>http://www.weather.gc.ca</uri>
+ </author>
+ <updated>2016-09-10T20:02:55Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20160910200255</id>
+ <logo>http://www.weather.gc.ca/template/gcweb/assets/wmms-alt.png</logo>
+ <icon>http://www.weather.gc.ca/template/gcweb/assets/favicon.ico</icon>
+ <rights>Copyright 2016, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Enterprise</title>
+ <link type="text/html" href="http://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2016-08-20T23:30:00Z</updated>
+ <published>2016-08-20T23:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-2_w1:20160820233000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Rain, 8.2&#xB0;C</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/nt-2_metric_e.html"/>
+ <updated>2016-09-10T20:00:00Z</updated>
+ <published>2016-09-10T20:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Hay River/Merlyn Carter Airport 2:00 PM MDT Saturday 10 September 2016 <br/>
+<b>Condition:</b> Light Rain <br/>
+<b>Temperature:</b> 8.2&deg;C <br/>
+<b>Pressure:</b> 100.7 kPa <br/>
+<b>Visibility:</b> 19.3 km<br/>
+<b>Humidity:</b> 91 %<br/>
+<b>Dewpoint:</b> 6.8&deg;C <br/>
+<b>Wind:</b> NE 28 km/h gust 46 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-2_cc:20160910200000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Periods of rain. High 9.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/nt-2_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Amount 5 mm. Wind northeast 20 km/h gusting to 40. High 9. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-2_fc1:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of showers. Low plus 5. POP 60%</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/nt-2_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 60 percent chance of showers this evening. Clearing overnight. Fog patches developing overnight. Wind northeast 30 km/h becoming light overnight. Low plus 5. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-2_fc2:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High 12.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/nt-2_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Fog patches dissipating in the morning. High 12. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-2_fc3:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low plus 2.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/nt-2_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low plus 2. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-2_fc4:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High 17.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/nt-2_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 17. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-2_fc5:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low 8.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/nt-2_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low 8. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-2_fc6:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High 18.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/nt-2_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 18. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-2_fc7:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low 8.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/nt-2_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low 8. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-2_fc8:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High 12.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/nt-2_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 12. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-2_fc9:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low plus 2.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/nt-2_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low plus 2. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-2_fc10:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High 13.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/nt-2_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 13. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-2_fc11:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low 6.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/nt-2_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low 6. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-2_fc12:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High 17.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/nt-2_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 17. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-2_fc13:20160910170000</id>
+ </entry>
+ </feed>
+

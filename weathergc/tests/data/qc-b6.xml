@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See http://www.ec.gc.ca/meteo-weather/default.asp?lang=En&n=11703207-1 to learn more about our RSS service.
+-->
+
+ <title>Saint-Georges - Weather - Environment Canada</title>
+ <link rel="related" href="http://www.weather.gc.ca/city/pages/qc-b6_metric_e.html" type="text/html"/>
+ <link rel="self" href="http://www.weather.gc.ca/rss/city/qc-b6_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="http://www.meteo.gc.ca/rss/city/qc-b6_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>http://www.weather.gc.ca</uri>
+ </author>
+ <updated>2016-09-10T20:09:29Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20160910200929</id>
+ <logo>http://www.weather.gc.ca/template/gcweb/assets/wmms-alt.png</logo>
+ <icon>http://www.weather.gc.ca/template/gcweb/assets/favicon.ico</icon>
+ <rights>Copyright 2016, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Saint-Georges</title>
+ <link type="text/html" href="http://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2016-08-31T23:30:00Z</updated>
+ <published>2016-08-31T23:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-b6_w1:20160831233000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 24.6&#xB0;C</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-b6_metric_e.html"/>
+ <updated>2016-09-10T20:00:00Z</updated>
+ <published>2016-09-10T20:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Beauceville 4:00 PM EDT Saturday 10 September 2016 <br/>
+<b>Temperature:</b> 24.6&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.4 kPa falling<br/>
+<b>Humidity:</b> 60 %<br/>
+<b>Humidex:</b> 29 <br/>
+<b>Dewpoint:</b> 16.4&deg;C <br/>
+<b>Wind:</b> SSE 8 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-b6_cc:20160910200000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of showers or thunderstorms. Low 19. POP 60%</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-b6_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 60 percent chance of showers this evening. Showers or thunderstorms beginning overnight. Wind becoming south 20 km/h near midnight. Low 19. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-b6_fc1:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Sunday: Showers. Temperature steady near 18.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-b6_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers ending near noon then cloudy with 40 percent chance of showers. Risk of a thunderstorm in the morning. Wind southwest 30 km/h gusting to 60. Temperature steady near 18. UV index 4 or moderate. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-b6_fc2:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clearing. Low 8.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-b6_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing early in the evening. Low 8. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-b6_fc3:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High 21.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-b6_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 21. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-b6_fc4:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low 11.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-b6_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low 11. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-b6_fc5:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Cloudy. High 24.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-b6_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High 24. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-b6_fc6:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of showers. Low 13. POP 40%</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-b6_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. Low 13. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-b6_fc7:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Rain. High 19.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-b6_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 19. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-b6_fc8:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Periods of rain. Low 6.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-b6_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low 6. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-b6_fc9:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High 18.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-b6_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 18. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-b6_fc10:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low 6.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-b6_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low 6. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-b6_fc11:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High 20.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-b6_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 20. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-b6_fc12:20160910194500</id>
+ </entry>
+ </feed>
+

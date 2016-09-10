@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See http://www.ec.gc.ca/meteo-weather/default.asp?lang=En&n=11703207-1 to learn more about our RSS service.
+-->
+
+ <title>Golden - Weather - Environment Canada</title>
+ <link rel="related" href="http://www.weather.gc.ca/city/pages/bc-34_metric_e.html" type="text/html"/>
+ <link rel="self" href="http://www.weather.gc.ca/rss/city/bc-34_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="http://www.meteo.gc.ca/rss/city/bc-34_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>http://www.weather.gc.ca</uri>
+ </author>
+ <updated>2016-09-10T20:10:16Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20160910201016</id>
+ <logo>http://www.weather.gc.ca/template/gcweb/assets/wmms-alt.png</logo>
+ <icon>http://www.weather.gc.ca/template/gcweb/assets/favicon.ico</icon>
+ <rights>Copyright 2016, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Golden</title>
+ <link type="text/html" href="http://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2016-08-28T01:00:00Z</updated>
+ <published>2016-08-28T01:00:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-34_w1:20160828010000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Rainshower, 15.5&#xB0;C</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-34_metric_e.html"/>
+ <updated>2016-09-10T20:09:00Z</updated>
+ <published>2016-09-10T20:09:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Golden Airport 2:09 PM MDT Saturday 10 September 2016 <br/>
+<b>Condition:</b> Light Rainshower <br/>
+<b>Temperature:</b> 15.5&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.5 kPa falling<br/>
+<b>Visibility:</b> 32.2 km<br/>
+<b>Humidity:</b> 67 %<br/>
+<b>Dewpoint:</b> 9.5&deg;C <br/>
+<b>Wind:</b> NW 7 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-34_cc:20160910200900</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of showers. High 17. POP 60%</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-34_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 60 percent chance of showers. Wind becoming northwest 20 km/h gusting to 40 late this afternoon. High 17. UV index 3 or moderate. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-34_fc1:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Showers. Low 7.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-34_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Risk of a thunderstorm this evening. Amount 5 to 10 mm. Wind northwest 20 km/h gusting to 40 becoming light overnight. Low 7. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-34_fc2:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of showers. High 14. POP 60%</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-34_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 60 percent chance of showers in the morning. Becoming a mix of sun and cloud in the afternoon. High 14. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-34_fc3:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low plus 4.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-34_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low plus 4. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-34_fc4:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High 16.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-34_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 16. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-34_fc5:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low plus 1.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-34_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low plus 1. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-34_fc6:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High 19.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-34_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 19. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-34_fc7:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low plus 4.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-34_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low plus 4. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-34_fc8:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High 21.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-34_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 21. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-34_fc9:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low plus 3.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-34_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low plus 3. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-34_fc10:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High 19.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-34_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 19. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-34_fc11:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low plus 3.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-34_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low plus 3. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-34_fc12:20160910170000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High 20.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-34_metric_e.html"/>
+ <updated>2016-09-10T17:00:00Z</updated>
+ <published>2016-09-10T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 20. Forecast issued 11:00 AM MDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-34_fc13:20160910170000</id>
+ </entry>
+ </feed>
+

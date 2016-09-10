@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See http://www.ec.gc.ca/meteo-weather/default.asp?lang=En&n=11703207-1 to learn more about our RSS service.
+-->
+
+ <title>La Tuque - Weather - Environment Canada</title>
+ <link rel="related" href="http://www.weather.gc.ca/city/pages/qc-154_metric_e.html" type="text/html"/>
+ <link rel="self" href="http://www.weather.gc.ca/rss/city/qc-154_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="http://www.meteo.gc.ca/rss/city/qc-154_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>http://www.weather.gc.ca</uri>
+ </author>
+ <updated>2016-09-10T20:14:31Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20160910201431</id>
+ <logo>http://www.weather.gc.ca/template/gcweb/assets/wmms-alt.png</logo>
+ <icon>http://www.weather.gc.ca/template/gcweb/assets/favicon.ico</icon>
+ <rights>Copyright 2016, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, La Tuque</title>
+ <link type="text/html" href="http://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2016-09-08T20:15:00Z</updated>
+ <published>2016-09-08T20:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-154_w1:20160908201500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 22.1&#xB0;C</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-154_metric_e.html"/>
+ <updated>2016-09-10T20:00:00Z</updated>
+ <published>2016-09-10T20:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> La Tuque 4:00 PM EDT Saturday 10 September 2016 <br/>
+<b>Temperature:</b> 22.1&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.3 kPa falling<br/>
+<b>Humidity:</b> 67 %<br/>
+<b>Humidex:</b> 27 <br/>
+<b>Dewpoint:</b> 15.8&deg;C <br/>
+<b>Wind:</b> SE 3 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-154_cc:20160910200000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Showers. Low 18.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-154_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Showers beginning this evening. Risk of a thunderstorm overnight. Wind becoming south 20 km/h near midnight. Low 18. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-154_fc1:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Sunday: Showers. Temperature falling to 13 in the afternoon.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-154_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Wind south 20 km/h becoming west 30 gusting to 60 in the morning. Temperature falling to 13 in the afternoon. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-154_fc2:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clearing. Low 8.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-154_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing in the evening. Low 8. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-154_fc3:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High 22.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-154_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 22. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-154_fc4:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy. Low 12.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-154_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low 12. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-154_fc5:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Cloudy. High 23.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-154_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High 23. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-154_fc6:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Rain. Low 11.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-154_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low 11. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-154_fc7:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Rain. High 12.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-154_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 12. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-154_fc8:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Periods of rain. Low plus 5.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-154_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low plus 5. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-154_fc9:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High 19.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-154_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 19. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-154_fc10:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low 6.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-154_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low 6. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-154_fc11:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High 21.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-154_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 21. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-154_fc12:20160910194500</id>
+ </entry>
+ </feed>
+

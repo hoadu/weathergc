@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See http://www.ec.gc.ca/meteo-weather/default.asp?lang=En&n=11703207-1 to learn more about our RSS service.
+-->
+
+ <title>Fort Nelson - Weather - Environment Canada</title>
+ <link rel="related" href="http://www.weather.gc.ca/city/pages/bc-83_metric_e.html" type="text/html"/>
+ <link rel="self" href="http://www.weather.gc.ca/rss/city/bc-83_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="http://www.meteo.gc.ca/rss/city/bc-83_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>http://www.weather.gc.ca</uri>
+ </author>
+ <updated>2016-09-10T20:06:34Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20160910200634</id>
+ <logo>http://www.weather.gc.ca/template/gcweb/assets/wmms-alt.png</logo>
+ <icon>http://www.weather.gc.ca/template/gcweb/assets/favicon.ico</icon>
+ <rights>Copyright 2016, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Fort Nelson</title>
+ <link type="text/html" href="http://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2016-09-03T12:45:00Z</updated>
+ <published>2016-09-03T12:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_w1:20160903124500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Cloudy, 5.9&#xB0;C</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2016-09-10T20:00:00Z</updated>
+ <published>2016-09-10T20:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Fort Nelson Airport 1:00 PM MST Saturday 10 September 2016 <br/>
+<b>Condition:</b> Cloudy <br/>
+<b>Temperature:</b> 5.9&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.4 kPa rising<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 79 %<br/>
+<b>Dewpoint:</b> 2.6&deg;C <br/>
+<b>Wind:</b> WNW 17 km/h gust 30 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_cc:20160910200000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Periods of rain. Temperature steady near plus 5 except near plus 1 over higher terrain.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2016-09-10T18:00:00Z</updated>
+ <published>2016-09-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Wet snow near the Rockies. Wind northwest 20 km/h gusting to 40. Temperature steady near plus 5 except near plus 1 over higher terrain. Forecast issued 11:00 AM PDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc1:20160910180000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Periods of rain. Low plus 2.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2016-09-10T18:00:00Z</updated>
+ <published>2016-09-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain ending after midnight then partly cloudy. Wet snow near the Rockies this evening and after midnight. Wind northwest 20 km/h gusting to 40 becoming light this evening. Low plus 2. Forecast issued 11:00 AM PDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc2:20160910180000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Mainly sunny. High 15.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2016-09-10T18:00:00Z</updated>
+ <published>2016-09-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. High 15. Forecast issued 11:00 AM PDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc3:20160910180000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low plus 1.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2016-09-10T18:00:00Z</updated>
+ <published>2016-09-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low plus 1. Forecast issued 11:00 AM PDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc4:20160910180000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High 18.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2016-09-10T18:00:00Z</updated>
+ <published>2016-09-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 18. Forecast issued 11:00 AM PDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc5:20160910180000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low 6.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2016-09-10T18:00:00Z</updated>
+ <published>2016-09-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low 6. Forecast issued 11:00 AM PDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc6:20160910180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High 21.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2016-09-10T18:00:00Z</updated>
+ <published>2016-09-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 21. Forecast issued 11:00 AM PDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc7:20160910180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low 7.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2016-09-10T18:00:00Z</updated>
+ <published>2016-09-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low 7. Forecast issued 11:00 AM PDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc8:20160910180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High 18.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2016-09-10T18:00:00Z</updated>
+ <published>2016-09-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 18. Forecast issued 11:00 AM PDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc9:20160910180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low plus 3.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2016-09-10T18:00:00Z</updated>
+ <published>2016-09-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low plus 3. Forecast issued 11:00 AM PDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc10:20160910180000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High 20.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2016-09-10T18:00:00Z</updated>
+ <published>2016-09-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 20. Forecast issued 11:00 AM PDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc11:20160910180000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low plus 5.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2016-09-10T18:00:00Z</updated>
+ <published>2016-09-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low plus 5. Forecast issued 11:00 AM PDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc12:20160910180000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High 20.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2016-09-10T18:00:00Z</updated>
+ <published>2016-09-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 20. Forecast issued 11:00 AM PDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc13:20160910180000</id>
+ </entry>
+ </feed>
+

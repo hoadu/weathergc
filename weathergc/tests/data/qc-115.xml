@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See http://www.ec.gc.ca/meteo-weather/default.asp?lang=En&n=11703207-1 to learn more about our RSS service.
+-->
+
+ <title>Schefferville - Weather - Environment Canada</title>
+ <link rel="related" href="http://www.weather.gc.ca/city/pages/qc-115_metric_e.html" type="text/html"/>
+ <link rel="self" href="http://www.weather.gc.ca/rss/city/qc-115_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="http://www.meteo.gc.ca/rss/city/qc-115_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>http://www.weather.gc.ca</uri>
+ </author>
+ <updated>2016-09-10T20:05:33Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20160910200533</id>
+ <logo>http://www.weather.gc.ca/template/gcweb/assets/wmms-alt.png</logo>
+ <icon>http://www.weather.gc.ca/template/gcweb/assets/favicon.ico</icon>
+ <rights>Copyright 2016, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Schefferville</title>
+ <link type="text/html" href="http://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2016-06-24T08:46:00Z</updated>
+ <published>2016-06-24T08:46:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-115_w1:20160624084600</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mostly Cloudy, 15.5&#xB0;C</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-115_metric_e.html"/>
+ <updated>2016-09-10T20:00:00Z</updated>
+ <published>2016-09-10T20:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Schefferville Airport 4:00 PM EDT Saturday 10 September 2016 <br/>
+<b>Condition:</b> Mostly Cloudy <br/>
+<b>Temperature:</b> 15.5&deg;C <br/>
+<b>Pressure:</b> 101.2 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 66 %<br/>
+<b>Dewpoint:</b> 9.3&deg;C <br/>
+<b>Wind:</b> SW 24 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-115_cc:20160910200000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Rain. Low 10.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-115_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Amount 10 mm. Wind southwest 20 km/h gusting to 40 becoming light early this evening. Wind becoming southeast 20 overnight. Low 10. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-115_fc1:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Sunday: Rain at times heavy. High 13.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-115_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain at times heavy. Amount 25 mm. Wind southeast 30 km/h gusting to 50. High 13. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-115_fc2:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of rain. Low plus 5. POP 60%</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-115_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain. Wind west 20 km/h gusting to 40 becoming northwest 50 gusting to 80 in the evening. Low plus 5. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-115_fc3:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Monday: Periods of rain. High 9.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-115_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Windy. High 9. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-115_fc4:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Monday night: Rain. Low 6.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-115_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low 6. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-115_fc5:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Showers. High 9.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-115_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Windy. High 9. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-115_fc6:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Showers. Low plus 4.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-115_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low plus 4. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-115_fc7:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Cloudy. High 8.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-115_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High 8. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-115_fc8:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low plus 4.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-115_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low plus 4. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-115_fc9:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Thursday: Cloudy. High 12.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-115_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High 12. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-115_fc10:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy. Low 6.</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-115_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low 6. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-115_fc11:20160910194500</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of showers. High 12. POP 40%</title>
+ <link type="text/html" href="http://www.weather.gc.ca/city/pages/qc-115_metric_e.html"/>
+ <updated>2016-09-10T19:45:00Z</updated>
+ <published>2016-09-10T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. High 12. Forecast issued 3:45 PM EDT Saturday 10 September 2016</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-115_fc12:20160910194500</id>
+ </entry>
+ </feed>
+
