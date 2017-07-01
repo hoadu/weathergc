@@ -41,7 +41,7 @@ setup(
         # Specify the Python versions you support here. In particular, ensure
         # that you indicate whether you support Python 2, Python 3 or both.
         'Programming Language :: Python :: 2.7',
-        'Programming Language :: Python :: 3.4',
+        'Programming Language :: Python :: 3.5',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License'
     ],
@@ -64,7 +64,7 @@ setup(
     install_requires=['voluptuous==0.9.3',
                       'xmltodict==0.10.2',
     ],
-    
+
     tests_require = [
         'mock==2.0.0',
         'nose==1.3.7',
